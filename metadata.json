@@ -1,0 +1,5 @@
+{
+  "name": "Solaris - 3D Solar System Explorer",
+  "description": "An interactive 3D educational model of the Solar System powered by Google Gemini. Explore planetary orbits, physical characteristics, and cosmic relationships in real-time.",
+  "requestFramePermissions": []
+}
